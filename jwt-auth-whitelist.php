@@ -17,7 +17,7 @@ $_candc_jwt_uri_whitelist = array(
 							);
 
 $_candc_jwt_user_agent_whitelist = array( 
-										'Zapier',
+									'Zapier',
 									);			
 
 add_filter( 'option_active_plugins', function( $plugins ){
